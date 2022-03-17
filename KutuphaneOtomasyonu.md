@@ -1,5 +1,5 @@
 # proje-kutuphane-otomasyonu
-KÜTÜPHANE OTOMASYONU PROJE RAPORU
+# KÜTÜPHANE OTOMASYONU PROJE RAPORU
 
 Motivasyonumuz Ne?
 	Oluşturacağımız projede bizleri motive eden kısım öncelikle tabi ki bizlere kendi kişisel dijital yeteneklerimizi geliştirebilme olanağı katmasıdır. Oluşturacağımız bu proje ile birer Bilgisayar Bilimcisi olma yolunda kazanımlar kazanacağımız aşikardır. Bizleri en çok motive eden kısımlardan birisi de tüketici olmayı bırakıp üretmeye başlamamızdır. Böyle bir proje tasarlayıp yaparak hem ihtiyacı olan kurumlar bundan faydalanabilecek hem de kullanıcıların teknolojik alanda işleri çok fazla kolaylaşacaktır.
@@ -38,12 +38,16 @@ Ne fark yaratacağız?  ve Hangi kısımları iyileştireceğiz?
 -Gerekçe Analizi
 	Son zamanlarda İnternet teknolojisinin hızla gelişmesiyle kitaplara olan ilgi giderek azalmıştır. Amacımız, bu durumu göz önüne olarak kişilerin kütüphanelerle olan etkileşimini arttırmaktır.
 
-Kullanılacak Kaynaklar
+# Kullanılacak Kaynaklar
     • Bilgisayar
     • C#
     • Microsoft SQL Server 2022
     • Microsoft Visual Studio 2022
     • Kullanıcı analizleri
+    
+    
+    
+![image](https://user-images.githubusercontent.com/72562646/158817972-a343c7ba-fb11-4c74-b9df-f0fd90298036.png)
 
 
 
@@ -53,4 +57,12 @@ Kullanılacak Kaynaklar
 Hazırlayan: Mehmet Kök
 Öğrenci Numarası:192523042
 Tarih:16/03/2022
+
+
+
+
+
+
+
+
 

@@ -61,12 +61,10 @@ Son zamanlarda İnternet teknolojisinin hızla gelişmesiyle kitaplara olan ilgi
 
 
 
-Hazırlayan: 
-Mehmet Kök
-Öğrenci Numarası:
-192523042
-Tarih:
-16/03/2022
+## Hazırlayan: 
+Adı Soyadı: Mehmet Kök
+Öğrenci Numarası: 192523042
+Tarih: 16/03/2022
 
 
 

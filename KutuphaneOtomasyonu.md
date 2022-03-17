@@ -53,6 +53,13 @@ Ne fark yaratacağız?  ve Hangi kısımları iyileştireceğiz?
 
 
 
+# Grup Üyeleri
+-Berivan Yelboğa
+-Ahmet Emin Çöpür
+-Mehmet Kök
+
+
+
 
 Hazırlayan: Mehmet Kök
 Öğrenci Numarası:192523042

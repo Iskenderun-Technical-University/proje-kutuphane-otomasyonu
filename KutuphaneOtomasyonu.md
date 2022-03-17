@@ -16,10 +16,10 @@ Ne fark yaratacağız?  ve Hangi kısımları iyileştireceğiz?
 # ANALİZ
 
 -İhtiyaç Analizi
-	Projemizde kütüphanelerde bulunan sistem bütünlüğünü daha aktif bir şekilde kullanıcılarla etkileşimli hale getirmektir. Kütüphanelerdeki karışıklığı en aza indirerek kitapların tür, yazar, basım yeri, basım tarihi vb gruplandırmalar yaparak sistem bütünlüğünü sağlamak istiyoruz.
+Projemizde kütüphanelerde bulunan sistem bütünlüğünü daha aktif bir şekilde kullanıcılarla etkileşimli hale getirmektir. Kütüphanelerdeki karışıklığı en aza indirerek kitapların tür, yazar, basım yeri, basım tarihi vb gruplandırmalar yaparak sistem bütünlüğünü sağlamak istiyoruz.
 
 -İçerik Analizi 
-	Hedef kitlemizin analiz ihtiyaçlarına göre yaptığımız içerik analizinde projemizi onların etkin bir biçimde kullanmalarını amaçladık. Yönetici bilgileri günceller, otomasyonda her türlü değişikliği yapar, otomasyonu sade ve anlaşılır biçimde tasarlar ve otomasyonun görsel kısmını dizayn eder. İçeriğimiz herkesin anlayacağı bir biçimde açık , anlaşılır ve kullanışlı olacaktır.  Otomasyonumuzda;
+Hedef kitlemizin analiz ihtiyaçlarına göre yaptığımız içerik analizinde projemizi onların etkin bir biçimde kullanmalarını amaçladık. Yönetici bilgileri günceller, otomasyonda her türlü değişikliği yapar, otomasyonu sade ve anlaşılır biçimde tasarlar ve otomasyonun görsel kısmını dizayn eder. İçeriğimiz herkesin anlayacağı bir biçimde açık , anlaşılır ve kullanışlı olacaktır.  Otomasyonumuzda;
     • Kitap isimlerine göre arama
     • Yazar isimlerine göre arama
     • İçeriğe göre arama
@@ -30,13 +30,13 @@ Ne fark yaratacağız?  ve Hangi kısımları iyileştireceğiz?
       
       
 -Kullanıcı Analizi
-	Kullanıcılarımız öğretim görevlileri ve lisans düzeyinde öğrenim gören tüm öğrencilerdir.
+Kullanıcılarımız öğretim görevlileri ve lisans düzeyinde öğrenim gören tüm öğrencilerdir.
 
 -Araç Analizi
-	Otomasyonu hazırlamak için  geliştirici stüdyo olarak Microsoft Visual Studio Community 2022 ve Database için ise Microsoft SQL Server 2022 kullanacağız.
+Otomasyonu hazırlamak için  geliştirici stüdyo olarak Microsoft Visual Studio Community 2022 ve Database için ise Microsoft SQL Server 2022 kullanacağız.
 
 -Gerekçe Analizi
-	Son zamanlarda İnternet teknolojisinin hızla gelişmesiyle kitaplara olan ilgi giderek azalmıştır. Amacımız, bu durumu göz önüne olarak kişilerin kütüphanelerle olan etkileşimini arttırmaktır.
+Son zamanlarda İnternet teknolojisinin hızla gelişmesiyle kitaplara olan ilgi giderek azalmıştır. Amacımız, bu durumu göz önüne olarak kişilerin kütüphanelerle olan etkileşimini arttırmaktır.
 
 # Kullanılacak Kaynaklar
     • Bilgisayar

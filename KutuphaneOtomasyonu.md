@@ -41,7 +41,7 @@ Son zamanlarda İnternet teknolojisinin hızla gelişmesiyle kitaplara olan ilgi
 # Kullanılacak Kaynaklar
     • Bilgisayar
     • C#
-    • Microsoft SQL Server 2022
+    • Microsoft SQL Server 2019
     • Microsoft Visual Studio 2022
     • Kullanıcı analizleri
     

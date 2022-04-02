@@ -71,7 +71,7 @@ Tarih: 16/03/2022
 # Görev Dağılımı:
 
 ## Veritabanı Planlaması ve Kurulumu
-   • Berivan Yelboğa
+    • Berivan Yelboğa
 ## Uygulamanın Geliştirilmesi
     • Mehmet Kök
 ## Uygulama Tasarımı

@@ -72,11 +72,12 @@ Tarih: 16/03/2022
 
 ## Veritabanı Planlaması ve Kurulumu
     • Berivan Yelboğa
+    • Mehmet Kök
 ## Uygulamanın Geliştirilmesi
     • Mehmet Kök
 ## Uygulama Tasarımı
     • Ahmet Emin Çöpür
-   
+    • Mehmet Kök
 
 
 
